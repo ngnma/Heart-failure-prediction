@@ -2,4 +2,7 @@
 Supervised-machine-learning-project(classification)
 
 This notebook includes 4 model to predict the result
-* g
+* KNN
+* Decision tree
+* Logistic regression
+* SVM
